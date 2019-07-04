@@ -1,2 +1,4 @@
 # crud
-crud app
+crud app (tomcat, spring, MySQL, Maven)
+
+not finished
